@@ -1,0 +1,28 @@
+div.fansi h2{
+    position:absolute;
+    
+    color: white;
+    margin: 100px;
+}
+
+div.fansi img{
+    position: relative;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    flex-basis: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.ort {
+height: auto;
+width: auto;
+padding: auto;
+}
